@@ -1,4 +1,3 @@
 # OSS_2025
-Welcome
 
-good lecture
+Welcome! This is for my university project.
